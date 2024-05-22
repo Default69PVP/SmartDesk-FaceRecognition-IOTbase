@@ -1,0 +1,798 @@
+{
+  "Model": {
+    "canDownload": 1
+  },
+  "announcement": [
+    {
+      "body": "Đăng ký học phần HK2 BODY",
+      "header": "ĐĂNG KÝ HỌC PHẦN HK2"
+    },
+    {
+      "body": "Nghỉ học môn CE001 ngày 15-01-2024 BODY",
+      "header": "NGHỈ HỌC MÔN CE001 NGÀY 15-01-2024"
+    },
+    {
+      "body": "Học bù môn CE002 ngày 16-01-2024 BODY",
+      "header": "HỌC BÙ MÔN CE002 NGÀY 16-01-2024"
+    },
+    {
+      "body": "kiểm tra Quiz ngày 22-01-2024",
+      "header": "KIỂM TRA QUIZ MÔN CE001 NGÀY 22-01-2024"
+    },
+    {
+      "body": "Thuyết trình giữa kì môn CE003 BODY",
+      "header": "THUYẾT TRÌNH GIỮA KÌ MÔN CE003"
+    },
+    {
+      "body": "Đổi phòng học môn CE002 ngày 07-01-2024",
+      "header": "ĐỔI PHÒNG HỌC MÔN CE002 NGÀY 07-01-2024"
+    },
+    {
+      "body": "Nộp báo cáo môn CE001 ngày 15-01-2023",
+      "header": "NỘP BÁO CÁO MÔN CE004 NGÀY 15-01-2023"
+    }
+  ],
+  "danh_sach_hoc_vien": [
+    {
+      "dia_chi": "1234 Đường ABC, Quận XYZ",
+      "email": "nguyenvana@example.com",
+      "gioi_tinh": "Nam",
+      "ho_ten": "Nguyễn Văn Duyên",
+      "ma_hoc_vien": "19521440",
+      "ngay_sinh": "1995-05-14",
+      "so_dien_thoai": "0901234567"
+    },
+    {
+      "dia_chi": "456 Đường XYZ, Quận ABC",
+      "email": "tranthib@example.com",
+      "gioi_tinh": "Nam",
+      "ho_ten": "Trần Bửu Hội",
+      "ma_hoc_vien": "19521549",
+      "ngay_sinh": "1998-08-20",
+      "so_dien_thoai": "0912345678"
+    },
+    {
+      "dia_chi": "789 Đường DEF, Quận GHI",
+      "email": "levanc@example.com",
+      "gioi_tinh": "Nam",
+      "ho_ten": "Lê Văn Cường",
+      "ma_hoc_vien": "19521245",
+      "ngay_sinh": "1990-03-10",
+      "so_dien_thoai": "0923456789"
+    },
+    {
+      "dia_chi": "101 Đường HIJ, Quận KLM",
+      "email": "phamthid@example.com",
+      "gioi_tinh": "Nữ",
+      "ho_ten": "Đỗ Phương Nam",
+      "ma_hoc_vien": "19521865",
+      "ngay_sinh": "1992-12-25",
+      "so_dien_thoai": "0934567890"
+    },
+    {
+      "dia_chi": "202 Đường MNO, Quận PQR",
+      "email": "hoangve@example.com",
+      "gioi_tinh": "Nam",
+      "ho_ten": "Hoàng Văn Thuận",
+      "ma_hoc_vien": "19523541",
+      "ngay_sinh": "1997-06-05",
+      "so_dien_thoai": "0945678901"
+    },
+    {
+      "dia_chi": "abc Str",
+      "email": "hant226@gmail.com",
+      "gioi_tinh": "male",
+      "ho_ten": "Ngô Thái Anh Hào",
+      "ma_hoc_vien": "16520347",
+      "ngay_sinh": "11.12.1997",
+      "so_dien_thoai": "0378075701"
+    },
+    {
+      "dia_chi": "cde str",
+      "email": "Hieptv@gmail.com",
+      "gioi_tinh": "Male",
+      "ho_ten": "Trần Văn Hiệp",
+      "ma_hoc_vien": "19523754",
+      "ngay_sinh": "20.01.2001",
+      "so_dien_thoai": "097714254"
+    },
+    {
+      "dia_chi": "ABC STR",
+      "email": "Atv@gmail.com",
+      "gioi_tinh": "Male",
+      "ho_ten": "Trần Hồng Anh",
+      "ma_hoc_vien": "20524514",
+      "ngay_sinh": "20.02.2002",
+      "so_dien_thoai": "0996896951"
+    },
+    {
+      "dia_chi": "CDF str",
+      "email": "cnt@gmail.com",
+      "gioi_tinh": "Female",
+      "ho_ten": "Nguyễn Thị Chi",
+      "ma_hoc_vien": "18526951",
+      "ngay_sinh": "30.03.2003",
+      "so_dien_thoai": "0776485214"
+    },
+    {
+      "dia_chi": "EFG str",
+      "email": "hoangnh@gmail.com",
+      "gioi_tinh": "Male",
+      "ho_ten": "Nguyễn Huy Hoàng",
+      "ma_hoc_vien": "20524568",
+      "ngay_sinh": "11.01.2001",
+      "so_dien_thoai": "0776589654"
+    },
+    {
+      "dia_chi": "GHJ str",
+      "email": "vuitt@gmail.com",
+      "gioi_tinh": "Female",
+      "ho_ten": "Trần Thị Vui",
+      "ma_hoc_vien": "20525821",
+      "ngay_sinh": "04.04.2004",
+      "so_dien_thoai": "0996589654"
+    },
+    {
+      "dia_chi": "ABC str",
+      "email": "thamnt@gmail.com",
+      "gioi_tinh": "Female",
+      "ho_ten": "Nguyễn Thị Thắm",
+      "ma_hoc_vien": "19523645",
+      "ngay_sinh": "05.05.2005",
+      "so_dien_thoai": "098456825"
+    },
+    {
+      "dia_chi": "KFJ str",
+      "email": "tripm@gmail.com",
+      "gioi_tinh": "Male",
+      "ho_ten": "Phan Minh Trí",
+      "ma_hoc_vien": "19526547",
+      "ngay_sinh": "06.06.2006",
+      "so_dien_thoai": "0987564124"
+    },
+    {
+      "dia_chi": "ABC str",
+      "email": "tripm@gmail.com",
+      "gioi_tinh": "Male",
+      "ho_ten": "Phan Mạnh Quỳnh",
+      "ma_hoc_vien": "20526547",
+      "ngay_sinh": "06.06.2006",
+      "so_dien_thoai": "0987564124"
+    },
+    {
+      "dia_chi": "EFG str",
+      "email": "khoand@gmail.com",
+      "gioi_tinh": "Nam",
+      "ho_ten": "Võ Đinh Khoa",
+      "ma_hoc_vien": "19521703",
+      "ngay_sinh": "2002-05-11",
+      "so_dien_thoai": "0996541587"
+    }
+  ],
+  "danh_sach_lop": {
+    "ce001": {
+      "danh_sach_hoc_vien": [
+        {
+          "dia_chi": "1234 Đường ABC, Quận XYZ",
+          "email": "nguyenvana@example.com",
+          "gioi_tinh": "Nam",
+          "ho_ten": "Nguyễn Văn Duyên",
+          "ma_hoc_vien": "19521440",
+          "ngay_sinh": "1995-05-14",
+          "so_dien_thoai": "0901234567"
+        },
+        {
+          "dia_chi": "456 Đường XYZ, Quận ABC",
+          "email": "tranthib@example.com",
+          "gioi_tinh": "Nam",
+          "ho_ten": "Trần Bửu Hội",
+          "ma_hoc_vien": "19521549",
+          "ngay_sinh": "1998-08-20",
+          "so_dien_thoai": "0912345678"
+        },
+        {
+          "dia_chi": "789 Đường DEF, Quận GHI",
+          "email": "levanc@example.com",
+          "gioi_tinh": "Nam",
+          "ho_ten": "Lê Văn Cường",
+          "ma_hoc_vien": "19521245",
+          "ngay_sinh": "1990-03-10",
+          "so_dien_thoai": "0923456789"
+        },
+        {
+          "dia_chi": "101 Đường HIJ, Quận KLM",
+          "email": "phamthid@example.com",
+          "gioi_tinh": "Nữ",
+          "ho_ten": "Đỗ Phương Nam",
+          "ma_hoc_vien": "19521865",
+          "ngay_sinh": "1992-12-25",
+          "so_dien_thoai": "0934567890"
+        },
+        {
+          "dia_chi": "202 Đường MNO, Quận PQR",
+          "email": "hoangve@example.com",
+          "gioi_tinh": "Nam",
+          "ho_ten": "Hoàng Văn Thuận",
+          "ma_hoc_vien": "19523541",
+          "ngay_sinh": "1997-06-05",
+          "so_dien_thoai": "0945678901"
+        },
+        {
+          "dia_chi": "abc Str",
+          "email": "hant226@gmail.com",
+          "gioi_tinh": "male",
+          "ho_ten": "Ngô Thái Anh Hào",
+          "ma_hoc_vien": "16520347",
+          "ngay_sinh": "11.12.1997",
+          "so_dien_thoai": "0378075701"
+        },
+        {
+          "dia_chi": "cde str",
+          "email": "Hieptv@gmail.com",
+          "gioi_tinh": "Male",
+          "ho_ten": "Trần Văn Hiệp",
+          "ma_hoc_vien": "19523754",
+          "ngay_sinh": "20.01.2001",
+          "so_dien_thoai": "097714254"
+        },
+        {
+          "dia_chi": "ABC STR",
+          "email": "Atv@gmail.com",
+          "gioi_tinh": "Male",
+          "ho_ten": "Trần Hồng Anh",
+          "ma_hoc_vien": "20524514",
+          "ngay_sinh": "20.02.2002",
+          "so_dien_thoai": "0996896951"
+        },
+        {
+          "dia_chi": "CDF str",
+          "email": "cnt@gmail.com",
+          "gioi_tinh": "Female",
+          "ho_ten": "Nguyễn Thị Chi",
+          "ma_hoc_vien": "18526951",
+          "ngay_sinh": "30.03.2003",
+          "so_dien_thoai": "0776485214"
+        },
+        {
+          "dia_chi": "EFG str",
+          "email": "hoangnh@gmail.com",
+          "gioi_tinh": "Male",
+          "ho_ten": "Nguyễn Huy Hoàng",
+          "ma_hoc_vien": "20524568",
+          "ngay_sinh": "11.01.2001",
+          "so_dien_thoai": "0776589654"
+        },
+        {
+          "dia_chi": "GHJ str",
+          "email": "vuitt@gmail.com",
+          "gioi_tinh": "Female",
+          "ho_ten": "Trần Thị Vui",
+          "ma_hoc_vien": "20525821",
+          "ngay_sinh": "04.04.2004",
+          "so_dien_thoai": "0996589654"
+        },
+        {
+          "dia_chi": "ABC str",
+          "email": "thamnt@gmail.com",
+          "gioi_tinh": "Female",
+          "ho_ten": "Nguyễn Thị Thắm",
+          "ma_hoc_vien": "19523645",
+          "ngay_sinh": "05.05.2005",
+          "so_dien_thoai": "098456825"
+        },
+        {
+          "dia_chi": "KFJ str",
+          "email": "tripm@gmail.com",
+          "gioi_tinh": "Male",
+          "ho_ten": "Phan Minh Trí",
+          "ma_hoc_vien": "19526547",
+          "ngay_sinh": "06.06.2006",
+          "so_dien_thoai": "0987564124"
+        },
+        {
+          "dia_chi": "ABC str",
+          "email": "tripm@gmail.com",
+          "gioi_tinh": "Male",
+          "ho_ten": "Phan Mạnh Quỳnh",
+          "ma_hoc_vien": "20526547",
+          "ngay_sinh": "06.06.2006",
+          "so_dien_thoai": "0987564124"
+        },
+        {
+          "dia_chi": "EFG str",
+          "email": "khoand@gmail.com",
+          "gioi_tinh": "Nam",
+          "ho_ten": "Võ Đinh Khoa",
+          "ma_hoc_vien": "19521703",
+          "ngay_sinh": "2002-05-11",
+          "so_dien_thoai": "0996541587"
+        }
+      ],
+      "diem_danh_theo_ngay": [
+        {
+          "date": "2023-12-24",
+          "mssv": "19521440",
+          "status": "2"
+        },
+        {
+          "date": "2023-12-24",
+          "mssv": "19521549",
+          "status": "0"
+        },
+        {
+          "date": "2023-12-24",
+          "mssv": "19521245",
+          "status": "2"
+        },
+        {
+          "date": "2023-12-24",
+          "mssv": "19521865",
+          "status": "1"
+        },
+        {
+          "date": "2023-12-24",
+          "mssv": "19523541",
+          "status": "2"
+        },
+        {
+          "date": "2023-12-24",
+          "mssv": "16520347",
+          "status": "0"
+        },
+        {
+          "date": "2023-12-24",
+          "mssv": "19523754",
+          "status": "2"
+        },
+        {
+          "date": "2023-12-24",
+          "mssv": "20524514",
+          "status": "1"
+        },
+        {
+          "date": "2023-12-24",
+          "mssv": "18526951",
+          "status": "2"
+        },
+        {
+          "date": "2023-12-24",
+          "mssv": "20524568",
+          "status": "1"
+        },
+        {
+          "date": "2023-12-24",
+          "mssv": "20525821",
+          "status": "2"
+        },
+        {
+          "date": "2023-12-24",
+          "mssv": "19523645",
+          "status": "2"
+        },
+        {
+          "date": "2023-12-24",
+          "mssv": "19526547",
+          "status": "0"
+        },
+        {
+          "date": "2023-12-24",
+          "mssv": "20526547",
+          "status": "0"
+        },
+        {
+          "date": "2023-12-24",
+          "mssv": "19521703",
+          "status": "1"
+        },
+        {
+          "date": "2023-12-31",
+          "mssv": "19521440",
+          "status": "2"
+        },
+        {
+          "date": "2023-12-31",
+          "mssv": "19521549",
+          "status": "1"
+        },
+        {
+          "date": "2023-12-31",
+          "mssv": "19521245",
+          "status": "2"
+        },
+        {
+          "date": "2023-12-31",
+          "mssv": "19521865",
+          "status": "0"
+        },
+        {
+          "date": "2023-12-31",
+          "mssv": "19523541",
+          "status": "2"
+        },
+        {
+          "date": "2023-12-31",
+          "mssv": "16520347",
+          "status": "1"
+        },
+        {
+          "date": "2023-12-31",
+          "mssv": "19523754",
+          "status": "2"
+        },
+        {
+          "date": "2023-12-31",
+          "mssv": "20524514",
+          "status": "1"
+        },
+        {
+          "date": "2023-12-31",
+          "mssv": "18526951",
+          "status": "1"
+        },
+        {
+          "date": "2023-12-31",
+          "mssv": "20524568",
+          "status": "1"
+        },
+        {
+          "date": "2023-12-31",
+          "mssv": "20525821",
+          "status": "1"
+        },
+        {
+          "date": "2023-12-31",
+          "mssv": "19523645",
+          "status": "2"
+        },
+        {
+          "date": "2023-12-31",
+          "mssv": "19526547",
+          "status": "0"
+        },
+        {
+          "date": "2023-12-31",
+          "mssv": "20526547",
+          "status": "1"
+        },
+        {
+          "date": "2023-12-31",
+          "mssv": "19521703",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-06",
+          "mssv": "19521440",
+          "status": "2"
+        },
+        {
+          "date": "2024-01-06",
+          "mssv": "19521549",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-06",
+          "mssv": "19521245",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-06",
+          "mssv": "19521865",
+          "status": "0"
+        },
+        {
+          "date": "2024-01-06",
+          "mssv": "19523541",
+          "status": "2"
+        },
+        {
+          "date": "2024-01-06",
+          "mssv": "16520347",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-06",
+          "mssv": "19523754",
+          "status": "2"
+        },
+        {
+          "date": "2024-01-06",
+          "mssv": "20524514",
+          "status": "2"
+        },
+        {
+          "date": "2024-01-06",
+          "mssv": "18526951",
+          "status": "2"
+        },
+        {
+          "date": "2024-01-06",
+          "mssv": "20524568",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-06",
+          "mssv": "20525821",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-06",
+          "mssv": "19523645",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-06",
+          "mssv": "19526547",
+          "status": "0"
+        },
+        {
+          "date": "2024-01-06",
+          "mssv": "20526547",
+          "status": "2"
+        },
+        {
+          "date": "2024-01-06",
+          "mssv": "19521703",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-07",
+          "mssv": "19521440",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-07",
+          "mssv": "19521549",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-07",
+          "mssv": "19521245",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-07",
+          "mssv": "19521865",
+          "status": "2"
+        },
+        {
+          "date": "2024-01-07",
+          "mssv": "19523541",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-07",
+          "mssv": "16520347",
+          "status": "2"
+        },
+        {
+          "date": "2024-01-07",
+          "mssv": "19523754",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-07",
+          "mssv": "20524514",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-07",
+          "mssv": "18526951",
+          "status": "0"
+        },
+        {
+          "date": "2024-01-07",
+          "mssv": "20524568",
+          "status": "2"
+        },
+        {
+          "date": "2024-01-07",
+          "mssv": "20525821",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-07",
+          "mssv": "19523645",
+          "status": "0"
+        },
+        {
+          "date": "2024-01-07",
+          "mssv": "19526547",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-07",
+          "mssv": "20526547",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-07",
+          "mssv": "19521703",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-07",
+          "mssv": "19521413",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-27",
+          "mssv": "16520347",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-27",
+          "mssv": "19521865",
+          "status": "0"
+        },
+        {
+          "date": "2024-01-27",
+          "mssv": "19521440",
+          "status": "1"
+        },
+        {
+          "date": "2024-01-27",
+          "mssv": "19521549",
+          "status": "1"
+        }
+      ],
+      "giang_vien": "GV00",
+      "so_luong_sv": 30,
+      "status": "1",
+      "ten_mon_hoc": "Nhập môn mạch số"
+    },
+    "ce002": {
+      "buoi_hoc": [
+        {
+          "ngay_hoc": "30-03-2023",
+          "phong_hoc": "C102",
+          "thoi_gian": "13:00 - 15:15"
+        },
+        {
+          "ngay_hoc": "06-04-2023",
+          "phong_hoc": "C102",
+          "thoi_gian": "13:00 - 15:15"
+        },
+        {
+          "ngay_hoc": "13-04-2023",
+          "phong_hoc": "C102",
+          "thoi_gian": "13:00 - 15:15"
+        }
+      ],
+      "giang_vien": "GV01",
+      "so_luong_sv": 28,
+      "status": "1",
+      "ten_mon_hoc": "Nhập môn lập trình"
+    },
+    "ce003": {
+      "buoi_hoc": [
+        {
+          "ngay_hoc": "30-03-2023",
+          "phong_hoc": "C103",
+          "thoi_gian": "13:00 - 15:15"
+        },
+        {
+          "ngay_hoc": "06-04-2023",
+          "phong_hoc": "C103",
+          "thoi_gian": "13:00 - 15:15"
+        },
+        {
+          "ngay_hoc": "13-04-2023",
+          "phong_hoc": "C103",
+          "thoi_gian": "13:00 - 15:15"
+        }
+      ],
+      "giang_vien": "GV02",
+      "so_luong_sv": 32,
+      "status": "1",
+      "ten_mon_hoc": "Thiết kế luận lý số"
+    },
+    "ce004": {
+      "buoi_hoc": [
+        {
+          "ngay_hoc": "30-03-2023",
+          "phong_hoc": "C104",
+          "thoi_gian": "13:00 - 15:15"
+        },
+        {
+          "ngay_hoc": "06-04-2023",
+          "phong_hoc": "C104",
+          "thoi_gian": "13:00 - 15:15"
+        },
+        {
+          "ngay_hoc": "13-04-2023",
+          "phong_hoc": "C104",
+          "thoi_gian": "13:00 - 15:15"
+        }
+      ],
+      "giang_vien": "GV03",
+      "so_luong_sv": 35,
+      "status": "1",
+      "ten_mon_hoc": "Thiết kế vi mạch số"
+    },
+    "ce005": {
+      "buoi_hoc": [
+        {
+          "ngay_hoc": "30-03-2023",
+          "phong_hoc": "C102",
+          "thoi_gian": "13:00 - 15:15"
+        },
+        {
+          "ngay_hoc": "06-04-2023",
+          "phong_hoc": "C102",
+          "thoi_gian": "13:00 - 15:15"
+        },
+        {
+          "ngay_hoc": "13-04-2023",
+          "phong_hoc": "C102",
+          "thoi_gian": "13:00 - 15:15"
+        }
+      ],
+      "giang_vien": "GV01",
+      "so_luong_sv": 28,
+      "status": "0",
+      "ten_mon_hoc": "Lập trình hướng đối tượng"
+    },
+    "ce006": {
+      "buoi_hoc": [
+        {
+          "ngay_hoc": "30-03-2023",
+          "phong_hoc": "C103",
+          "thoi_gian": "13:00 - 15:15"
+        },
+        {
+          "ngay_hoc": "06-04-2023",
+          "phong_hoc": "C103",
+          "thoi_gian": "13:00 - 15:15"
+        },
+        {
+          "ngay_hoc": "13-04-2023",
+          "phong_hoc": "C103",
+          "thoi_gian": "13:00 - 15:15"
+        }
+      ],
+      "giang_vien": "GV02",
+      "so_luong_sv": 32,
+      "status": "0",
+      "ten_mon_hoc": "Thiết kế hệ thống nhúng"
+    },
+    "ce007": {
+      "buoi_hoc": [
+        {
+          "ngay_hoc": "30-03-2023",
+          "phong_hoc": "C104",
+          "thoi_gian": "13:00 - 15:15"
+        },
+        {
+          "ngay_hoc": "06-04-2023",
+          "phong_hoc": "C104",
+          "thoi_gian": "13:00 - 15:15"
+        },
+        {
+          "ngay_hoc": "13-04-2023",
+          "phong_hoc": "C104",
+          "thoi_gian": "13:00 - 15:15"
+        }
+      ],
+      "giang_vien": "GV03",
+      "so_luong_sv": 35,
+      "status": "0",
+      "ten_mon_hoc": "Giải tích"
+    }
+  },
+  "diem_danh_theo_ngay": {
+    "1": {
+      "hoc_vien": [
+        {
+          "mssv": "19521440",
+          "status": 0,
+          "time": "12:19:44"
+        }
+      ]
+    },
+    "2023-12-19": {
+      "19521440": {
+        "Time": "09:47:54"
+      }
+    }
+  }
+}
